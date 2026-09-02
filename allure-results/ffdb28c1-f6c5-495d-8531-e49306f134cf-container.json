@@ -1,0 +1,1 @@
+{"uuid":"ffdb28c1-f6c5-495d-8531-e49306f134cf","name":"Base.BaseTest.afterTC","children":["126e28c6-20b8-4dc0-a5cf-a8098562b18f"],"description":"","befores":[],"afters":[{"name":"afterTC","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1788378406393,"stop":1788378406535}],"start":1788378406393,"stop":1788378406535}

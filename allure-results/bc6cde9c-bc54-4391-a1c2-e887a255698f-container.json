@@ -1,0 +1,1 @@
+{"uuid":"bc6cde9c-bc54-4391-a1c2-e887a255698f","name":"Base.BaseTest.beforeTC","children":["987c659d-c6d8-4756-a550-c92f151054cf"],"description":"","befores":[{"name":"beforeTC","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1788379145956,"stop":1788379148839}],"afters":[],"start":1788379145956,"stop":1788379148839}
